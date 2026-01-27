@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = "us-east-1"
-        S3_BUCKET = "qa-test-artifacts"
+        S3_BUCKET = "qa-sauce-demo-test-artifacts"
         LOG_DIR = "logs"
     }
 
